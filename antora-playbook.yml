@@ -1,0 +1,15 @@
+site:
+  title: Logitech G HUB Docs
+  start_page: index.adoc
+  url: https://docs.lghubtest.com
+content:
+  sources:
+    - url: C:\Users\Admin\Documents\.SYNC\WORK\Writing\LGHub\Troubleshooting Guide.adoc
+      branches: HEAD
+    - url: C:\Users\Admin\Documents\.SYNC\WORK\Writing\LGHub\User Guide.adoc
+      branches: main
+      start_path: docs
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
