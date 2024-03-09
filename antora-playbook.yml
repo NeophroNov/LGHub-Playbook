@@ -1,7 +1,7 @@
 site:
   title: Logitech G HUB Docs
-  start_page: index.adoc
-  url: http://NeophroNov.github.io/LGHub
+  start_page: LGHub::index.adoc
+  url: http://NeophroNov.github.io/
 content:
   sources:
     - url: https://github.com/NeophroNov/LGHub-Content.git
@@ -12,4 +12,4 @@ ui:
     snapshot: true
 
 output:
-  dir: C:\Users\Admin\Documents\.SYNC\WORK\Writing\LGHub\LGHub-Site2
+  dir: C:\Users\Admin\Documents\.SYNC\WORK\Writing\LGHub\LGHub-Site
